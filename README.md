@@ -1,2 +1,4 @@
 # APTCrawler
-Program to allow running APT test cases locally
+To compile, run gradlew clean build
+
+To run, double click the jar file
